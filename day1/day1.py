@@ -1,20 +1,17 @@
 
-file = open("day1_input.txt", "r")
+file = open('input.txt')
 values = file.readlines()
 file.close()
-dictionnary = {}
+dictionnary = {0:0}
 iter = 0
-block = True
 
 for ligne in values:
     if ligne == "\n":
+        dictionnary[iter] = 0
         iter+=1
-        block=True
     else:
-        if block: dictionnary[str(iter)] = 0
-        add = dictionnary[str(iter)]
-        dictionnary[str(iter)] = (int(ligne[:-1]) + add)
-        block=False
+        add = dictionnary[iter]
+        dictionnary[iter] = (int(ligne[:-1]) + add)
 
 def stape1():
     max = 0
