@@ -2,6 +2,6 @@
 
  > ## Day 1:
 ```
-Gold stars = 80 009
-Silver stars = 4846
+Gold stars	= 80 009
+Silver stars	= 4846
 ```
