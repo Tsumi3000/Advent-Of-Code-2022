@@ -1,6 +1,5 @@
 
 snacks = [0]
-
 for ligne in open('input.txt').readlines():
     if ligne == "\n": snacks.append(0)
     else: snacks[len(snacks) - 1] += int(ligne)
