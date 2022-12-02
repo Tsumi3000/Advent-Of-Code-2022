@@ -3,8 +3,8 @@ file = open("input.txt").readlines()
 ennemySet = []
 mySet = []
 for i in file:
-    ennemySet.append(i.split(" ")[0])
-    mySet.append(i.split(" ")[1][:-1])
+    ennemySet.append(i.split()[0])
+    mySet.append(i.split()[1][:-1])
 
 def stape1():
     points = 0
