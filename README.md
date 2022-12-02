@@ -5,3 +5,8 @@
 Gold stars = 80 009
 Silver stars = 4 846
 ```
+ > ## Day 2:
+ ```
+ Gold stars = 73 728
+ Silver stars = 5 877
+ ```
