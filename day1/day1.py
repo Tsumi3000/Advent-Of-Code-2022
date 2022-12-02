@@ -9,4 +9,4 @@ def stape1(): return sorted(snacks)[len(snacks) - 1]
 
 def stape2(): return sum(sorted(snacks)[-3:])
 
-print(stape1, stape2())
+print(stape1(), stape2())
