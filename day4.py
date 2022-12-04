@@ -19,3 +19,5 @@ def stape2():
         elif int(first.split("-")[0]) <= int(second.split("-")[0]) and int(first.split("-")[1]) >= int(second.split("-")[1]): add+=1
         elif int(first.split("-")[0]) >= int(second.split("-")[0]) and int(first.split("-")[1]) <= int(second.split("-")[1]): add+=1
     return add
+    
+print(stape1(), stape2())
