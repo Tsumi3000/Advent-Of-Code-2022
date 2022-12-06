@@ -2,21 +2,26 @@
 
  > ## Day 1:
 ```
-Gold stars = 169 842
-Silver stars = 6 593
+Gold stars = 191 951
+Silver stars = 7 735
 ```
  > ## Day 2:
  ```
- Gold stars = 135 080
- Silver stars = 6 219
+ Gold stars = 157 878
+ Silver stars = 6 982
  ```
  > ## Day 3:
  ```
- Gold stars = 97 863
- Silver stars = 5 701
+Gold stars = 131 356
+ Silver stars = 6 633
  ```
   > ## Day 4:
  ```
- Gold stars = 45 133
- Silver stars = 2 330
+ Gold stars = 118 009
+ Silver stars = 1 986
+ ```
+   > ## Day 5:
+ ```
+ Gold stars = 92 286
+ Silver stars = 2 087
  ```
