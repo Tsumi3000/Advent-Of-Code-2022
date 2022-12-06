@@ -25,3 +25,8 @@ Gold stars = 131 356
  Gold stars = 92 286
  Silver stars = 2 087
  ```
+   > ## Day 6:
+ ```
+ Gold stars = 63 789
+ Silver stars = 1 430
+ ```
