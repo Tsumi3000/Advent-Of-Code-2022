@@ -2,31 +2,36 @@
 
  > ## Day 1:
 ```
-Gold stars = 191 951
-Silver stars = 7 735
+Rank Part 1 = 58 545
+Rank Part 2 = 56 342
 ```
  > ## Day 2:
  ```
- Gold stars = 157 878
- Silver stars = 6 982
+Rank Part 1 = 78 836
+Rank Part 2 = 73 713
  ```
  > ## Day 3:
  ```
-Gold stars = 131 356
- Silver stars = 6 633
+Rank Part 1 = 39 156
+Rank Part 2 = 37 099
  ```
   > ## Day 4:
  ```
- Gold stars = 118 009
- Silver stars = 1 986
+Rank Part 1 = 46 667
+Rank Part 2 = 45 000
  ```
    > ## Day 5:
  ```
- Gold stars = 92 286
- Silver stars = 2 087
+ Rank Part 1 = 93 551
+Rank Part 2 = 92 269
  ```
    > ## Day 6:
  ```
- Gold stars = 63 789
- Silver stars = 1 430
+Rank Part 1 = 63 079
+Rank Part 2 = 63 501
+ ```
+    > ## Day 7:
+ ```
+Rank Part 1 = 25 223
+Rank Part 2 = 24 042
  ```
