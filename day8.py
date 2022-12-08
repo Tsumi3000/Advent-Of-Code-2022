@@ -27,5 +27,4 @@ for ligne in range(len(file)):
         bestSpot[str(ligne)+str(tree)] = 1
         for i in directions: bestSpot[str(ligne)+str(tree)]*=directions[i]
 
-print(sorted(bestSpot.values())[-1])
-print(treeVisible)
+print(sorted(bestSpot.values())[-1], treeVisible)
