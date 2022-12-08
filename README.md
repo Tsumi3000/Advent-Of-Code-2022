@@ -35,3 +35,8 @@ Rank Part 2 = 63 501
 Rank Part 1 = 25 223
 Rank Part 2 = 24 042
  ```
+> ## Day 8:
+ ```
+Rank Part 1 = 32 582
+Rank Part 2 = 27 257
+ ```
