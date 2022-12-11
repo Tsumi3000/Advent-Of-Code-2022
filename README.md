@@ -45,3 +45,13 @@ Rank Part 2 = 27 257
 Rank Part 1 = 36 014
 Rank Part 2 = 29 813
  ```
+ > ## Day 10:
+ ```
+Rank Part 1 = 48 572
+Rank Part 2 = -
+ ```
+ > ## Day 11:
+ ```
+Rank Part 1 = 30 725
+Rank Part 2 = 24 514
+ ```
